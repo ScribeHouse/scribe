@@ -1,0 +1,24 @@
+{
+  "name": "scribe",
+  "version": "0.1.0",
+  "description": "Main toolset for the Scribe content management tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ScribeHouse/Scribe.git"
+  },
+  "keywords": [
+    "cms",
+    "content",
+    "static"
+  ],
+  "author": "Odden Creative",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ScribeHouse/Scribe/issues"
+  },
+  "homepage": "https://github.com/ScribeHouse/Scribe#readme"
+}
